@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background: #1B244A;
+    background-image: url("jordan.jfif")
     
 }
 
@@ -22,7 +23,7 @@ h3 {
 
 #home-scoreboard, #guest-scoreboard {
     background-color: #080001;
-    border-radius: 5px;
+    border-radius: 7px;
     width: 155px;
     height: 120px;
     font-family: 'Cursed Timer ULiL', sans-serif;
@@ -39,7 +40,7 @@ h3 {
     border: 2px solid #9AABD8;
     height: 45px;
     width: 45px;
-    border-radius: 5px;
+    border-radius: 7px;
     background: #1B244A;
     font-family: 'Cursed Timer ULiL', sans-serif;
     font-size: 18px;
